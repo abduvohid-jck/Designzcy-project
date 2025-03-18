@@ -1,0 +1,40 @@
+@font-face {
+  font-family: dmsans;
+  src: url(./assets/fonts/dmsans.woff);
+}
+@font-face {
+  font-family: rubik;
+  src: url(./assets/fonts/rubik.woff);
+}
+
+.nav-bar-link {
+  transition: 0.3s ease-in-out;
+}
+
+.nav-bar-link:hover {
+  color: #f35f2f;
+}
+
+.contact-us-btn {
+  background: linear-gradient(
+    2.79deg,
+    #f35f2f -13.68%,
+    rgba(243, 95, 47, 0.75) 121.16%
+  );
+}
+
+.free-consultation-btn {
+  background: linear-gradient(
+    2.79deg,
+    #f35f2f -13.68%,
+    rgba(243, 95, 47, 0.75) 121.16%
+  );
+}
+
+.services-icons {
+  box-shadow: 0px 4px 22px 0px #5f5f5f0d;
+}
+
+.service-card {
+  box-shadow: 0px 4px 22px 0px #5f5f5f0d;
+}
